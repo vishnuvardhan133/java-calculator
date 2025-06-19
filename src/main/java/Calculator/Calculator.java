@@ -27,5 +27,6 @@ public class Calculator {
         System.out.println("Subtract: " + calc.subtract(5, 3));
         System.out.println("Multiply: " + calc.multiply(5, 3));
         System.out.println("Divide: " + calc.divide(10, 2));
+        System.out.println("Program executed successfully");
     }
 }
